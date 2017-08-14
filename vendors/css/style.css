@@ -1,0 +1,83 @@
+/*index page stylesheet*/
+.main_bg{
+	background-image: url('../images/img1.png');
+	    background-position: center center;
+	   	background-repeat: no-repeat;
+	   	background-attachment: fixed;
+	   	background-size: cover;
+	   	position: relative;
+	   	height: 864px;
+	
+}
+.imgg_size1{
+	width: 100%;
+}
+.distance{
+	margin-top: 5%;
+}
+.bg_decoration{
+	background-color: #3a3939;
+}
+.set_icon{
+	display: inline-block;
+
+}
+.outning {
+	border: 1px solid #ffffff;
+	border-radius: 10px;
+	background: transparent;
+	color: #fff;
+	font-size: 20px;
+	padding: 7px 27px;
+}
+.bottom_bg{
+	background-image: url('../images/34.png');
+	   	background-repeat: no-repeat;
+	   	background-attachment: fixed;
+		height: 840px;
+
+}
+.overlay_1 {
+	background-color: rgba(0, 0, 0, 0.7);
+	position: relative;
+	text-align: center;
+	height: 840px;
+	background-attachment: fixed;
+}
+.sizing_1{
+	font-size: 18px;
+}
+.custom_bg{
+
+	background-color: rgba(0,0,0,.6);
+}
+.overlay {
+	background-color: rgba(0,0,0,.3);
+	background-attachment: fixed;
+	height: 864px;
+}
+.align_1 {
+	height: 100%;
+	width: 100%;
+	display: table;
+}
+.align_2 {
+	height: 100%;
+	width: 100%;
+	display: table-cell;
+	vertical-align: middle;
+}
+.set_icon img {
+	width: 38px;
+}
+.set_icon {
+	padding: 30px 10px 25px;
+}
+.copyright_1{
+	color: white;
+	padding: 40px;
+}
+.auto_size{
+	margin-top: 50%;
+	color: white;
+}
